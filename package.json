@@ -27,7 +27,7 @@
     "lib"
   ],
   "dependencies": {
-    "exeunt": "1.1.0"
+    "exeunt": "1.1.2"
   },
   "// dtrace-provider": "required for dtrace features",
   "// mv": "required for RotatingFileStream",
